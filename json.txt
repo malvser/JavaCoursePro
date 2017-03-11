@@ -1,0 +1,20 @@
+{
+    "name": "Sergey",
+    "surname": "Malov",
+    "phones": ["044-786-45-78", "097-123-45-67"],
+    "sites": ["http://site1.com", "http://site2.com"],
+    "address": {
+         "country": "UA",
+         "city": "Kyiv",
+         "street": "street"
+    },
+    "name": "Sergey",
+        "surname": "Ivanov",
+        "phones": ["044-786-45-78", "097-123-45-67"],
+        "sites": ["http://site1.com", "http://site2.com"],
+        "address": {
+             "country": "UA",
+             "city": "Kyiv",
+             "street": "street"
+        }
+}

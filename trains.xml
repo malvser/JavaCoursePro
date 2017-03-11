@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train id="1">
+        <date>6.03.2017</date>
+        <departure>15:02</departure>
+        <from>Cherson</from>
+        <to>Odessa</to>
+    </train>
+    <train id="2">
+        <date>7.03.2017</date>
+        <departure>19:15</departure>
+        <from>Odessa</from>
+        <to>Lviv</to>
+    </train>
+    <train id="3">
+        <date>08.03.2017</date>
+        <departure>16:48</departure>
+        <from>Kyiv</from>
+        <to>Odessa</to>
+    </train>
+    <train id="4">
+        <date>07.03.2017</date>
+        <departure>22:12</departure>
+        <from>Ternopil</from>
+        <to>Donetsk</to>
+    </train>
+    <train id="6">
+        <date>07.03.2017</date>
+        <departure>19:13</departure>
+        <from>Kyiv</from>
+        <to>Sumy</to>
+    </train>
+    <train id="5">
+        <date>08.03.2017</date>
+        <departure>17:44</departure>
+        <from>Lviv</from>
+        <to>Donetsk</to>
+    </train>
+    <train id="7">
+        <date>09.03.2017</date>
+        <departure>17:25</departure>
+        <from>Kyiv</from>
+        <to>Odessa</to>
+    </train>
+    <train id="8">
+        <date>09.03.2017</date>
+        <departure>17:25</departure>
+        <from>Kyiv</from>
+        <to>Odessa</to>
+    </train>
+</trains>
